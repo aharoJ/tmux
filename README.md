@@ -15,7 +15,7 @@
 <!-- END -->
 
 
-![my tmux config](z/tmux.gif)
+![my tmux config](gif/tmux.gif)
 
 
 # tmux-config
